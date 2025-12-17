@@ -59,8 +59,8 @@ This repository contains a deep learning model for **fetal head detection** in u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abusanny/autism-detection-deep-learning.git
-   cd autism-detection-deep-learning
+   git clone https://github.com/abusanny/fetal-head-detection-lstm.git
+   cd fetal-head-detection-lstm
    ```
 
 2. Create virtual environment:
